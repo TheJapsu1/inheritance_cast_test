@@ -1,0 +1,6 @@
+C:\Users\japsu\RiderProjects\inheritance_cast_test\bin\Debug\inheritance_cast_test.exe
+C:\Users\japsu\RiderProjects\inheritance_cast_test\bin\Debug\inheritance_cast_test.pdb
+C:\Users\japsu\RiderProjects\inheritance_cast_test\obj\Debug\inheritance_cast_test.csproj.AssemblyReference.cache
+C:\Users\japsu\RiderProjects\inheritance_cast_test\obj\Debug\inheritance_cast_test.csproj.CoreCompileInputs.cache
+C:\Users\japsu\RiderProjects\inheritance_cast_test\obj\Debug\inheritance_cast_test.exe
+C:\Users\japsu\RiderProjects\inheritance_cast_test\obj\Debug\inheritance_cast_test.pdb
